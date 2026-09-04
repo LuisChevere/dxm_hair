@@ -18,7 +18,7 @@ function Homepage() {
     >
       <Navbar />
 
-      <div className="pl-25 p-[30px]">
+      <div className="pl-25 p-[35px]">
         <p className="text-[12px] uppercase tracking-[2px] pb-[15px]">
           Premium Hair Products
         </p>

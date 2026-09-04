@@ -30,7 +30,7 @@ function Details() {
   return (
     <section>
       <div className="pt-25">
-        <div className="flex flex-row justify-center gap-10 border-y-1 border-[#d8b56a] py-5 whitespace-pre-line">
+        <div className="bg-[#080808] flex flex-row justify-center gap-10 border-y-1 border-[#d8b56a] py-5 whitespace-pre-line">
           {information.map((information) => (
             <div
               key={information.title}
