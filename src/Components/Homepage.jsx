@@ -1,5 +1,5 @@
 import Background from "../assets/Products/Landing-hero.png";
-import Separator from "../assets/Logos/Separator.png";
+import Divider from "../assets/Logos/Divider.png";
 import Navbar from "./Navbar";
 import Details from "./Details";
 
@@ -27,7 +27,7 @@ function Homepage() {
           <br />
           is an art
         </h1>
-        <img className="w-40" src={Separator} />
+        <img className="w-40 py-2" src={Divider} />
         <p className="text-[14px] font-thin">
           Uncompromising performance. Intentional design.
           <br />
